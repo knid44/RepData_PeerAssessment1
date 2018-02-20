@@ -110,3 +110,4 @@ barplot(interval_weekdays$steps, main = "Average Weekday Steps", xlab = "Interva
 ```
 
 ![](PA1_template_files/figure-html/day_of_week-1.png)<!-- -->
+end
